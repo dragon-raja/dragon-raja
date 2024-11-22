@@ -1,4 +1,3 @@
-## Hi there 👋
 [![Dragonraja's GitHub stats](https://github-readme-stats.vercel.app/api?username=dragon-raja&count_private=true&theme=cobalt)](https://github.com/dragon-raja)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dragon-raja&layout=compact)]
